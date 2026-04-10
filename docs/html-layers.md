@@ -72,16 +72,16 @@ Screenshot any HTTPS URL:
 
 Set `enableLibraries: true` to access these libraries:
 
-| Library          | Version  | Global Variable | Best For                                             |
-| ---------------- | -------- | --------------- | ---------------------------------------------------- |
-| **TailwindCSS**  | Play CDN | —               | Utility-first CSS classes                            |
-| **GSAP**         | 3.x      | `gsap`          | Complex animations & timelines                       |
-| **Lottie Web**   | 5.x      | `lottie`        | After Effects JSON animations                        |
-| **Chart.js**     | 4.x      | `Chart`         | Data visualizations (bar, line, pie, etc.)           |
-| **Motion**       | 12.x     | `Motion`        | Spring physics, keyframes, stagger                   |
-| **Anime.js**     | 4.x      | `anime`         | Lightweight animation engine                         |
-| **D3.js**        | 7.x      | `d3`            | Advanced data visualizations (maps, graphs, charts)  |
-| **Lucide Icons** | 1.x      | `lucide`        | 1500+ open-source SVG icons                          |
+| Library          | Version  | Global Variable | Best For                                            |
+| ---------------- | -------- | --------------- | --------------------------------------------------- |
+| **TailwindCSS**  | Play CDN | —               | Utility-first CSS classes                           |
+| **GSAP**         | 3.x      | `gsap`          | Complex animations & timelines                      |
+| **Lottie Web**   | 5.x      | `lottie`        | After Effects JSON animations                       |
+| **Chart.js**     | 4.x      | `Chart`         | Data visualizations (bar, line, pie, etc.)          |
+| **Motion**       | 12.x     | `Motion`        | Spring physics, keyframes, stagger                  |
+| **Anime.js**     | 4.x      | `anime`         | Lightweight animation engine                        |
+| **D3.js**        | 7.x      | `d3`            | Advanced data visualizations (maps, graphs, charts) |
+| **Lucide Icons** | 1.x      | `lucide`        | 1500+ open-source SVG icons                         |
 
 **Notes:**
 

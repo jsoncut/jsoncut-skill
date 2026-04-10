@@ -43,13 +43,13 @@ Point the agent to `AGENTS.md` — it contains the complete overview with links 
 
 ## What's Covered
 
-| Topic | File | Description |
-|-------|------|-------------|
-| API Reference | [`docs/api.md`](docs/api.md) | Endpoints, auth, file management, job lifecycle |
-| Image Generation | [`docs/image-generation.md`](docs/image-generation.md) | 6 layer types, positioning, effects, defaults |
+| Topic            | File                                                   | Description                                       |
+| ---------------- | ------------------------------------------------------ | ------------------------------------------------- |
+| API Reference    | [`docs/api.md`](docs/api.md)                           | Endpoints, auth, file management, job lifecycle   |
+| Image Generation | [`docs/image-generation.md`](docs/image-generation.md) | 6 layer types, positioning, effects, defaults     |
 | Video Generation | [`docs/video-generation.md`](docs/video-generation.md) | 16+ layer types, 65 transitions, audio, subtitles |
-| HTML Layers | [`docs/html-layers.md`](docs/html-layers.md) | HTML/CSS rendering, JS libraries, animations |
-| Examples | [`docs/examples.md`](docs/examples.md) | Ready-to-use image & video examples |
+| HTML Layers      | [`docs/html-layers.md`](docs/html-layers.md)           | HTML/CSS rendering, JS libraries, animations      |
+| Examples         | [`docs/examples.md`](docs/examples.md)                 | Ready-to-use image & video examples               |
 
 ## Repository Structure
 
@@ -68,9 +68,9 @@ jsoncut-skill/
 
 ## Links
 
-| | |
-|---|---|
-| **Homepage** | [jsoncut.com](https://jsoncut.com) |
-| **API** | [api.jsoncut.com](https://api.jsoncut.com) |
-| **Dashboard** | [app.jsoncut.com](https://app.jsoncut.com) |
+|                   |                                              |
+| ----------------- | -------------------------------------------- |
+| **Homepage**      | [jsoncut.com](https://jsoncut.com)           |
+| **API**           | [api.jsoncut.com](https://api.jsoncut.com)   |
+| **Dashboard**     | [app.jsoncut.com](https://app.jsoncut.com)   |
 | **Documentation** | [docs.jsoncut.com](https://docs.jsoncut.com) |
